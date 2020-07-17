@@ -1,0 +1,5 @@
+{
+    "require": {
+        "logtube/logtube": "^1.2"
+    }
+}
